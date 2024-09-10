@@ -19,7 +19,7 @@ To use this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/IT-Acronym-Beater.git
 2. Navigate to the project directory:
-  ```bash
+ 
    cd IT-Acronym-Beater
 4. Open the dist/index.html file in your browser
 

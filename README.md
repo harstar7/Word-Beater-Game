@@ -28,11 +28,4 @@ Open the index.html file from the dist/ folder in your web browser.
 The game will display an acronym, and you need to type it as fast and accurately as possible.
 The game will give you feedback on your typing speed and accuracy.
 
-## Project Structure
-├── dist/
-│   ├── index.html        # Main HTML file
-│   ├── words.txt         # List of IT acronyms used in the game
-│   └── js/
-│       └── main.js       # Main JavaScript logic for the typing game
-├── .gitignore            # Git ignore file
-├── package.json          # Project metadata
+
